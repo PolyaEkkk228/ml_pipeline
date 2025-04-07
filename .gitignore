@@ -1,0 +1,10 @@
+drive/
+
+.config/
+.gcloud/
+.logs/
+
+sample_data/
+
+*.tmp
+*.log
